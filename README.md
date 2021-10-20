@@ -1,5 +1,5 @@
 # Whose scale is it anyway?
-Whose scale is it anyway?. Workshop by [Will Lowe](https://twitter.com/conjugateprior), October 20, 2021.
+Whose scale is it anyway? Input talk by [Will Lowe](https://twitter.com/conjugateprior), October 20, 2021.
 
 ### Abstract
 
